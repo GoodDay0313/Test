@@ -1,0 +1,1 @@
+/home/addinedu/ROS2_BOOTCAMP/Test/GT/build/my_robot_navigation/ament_cmake_core/my_robot_navigationConfig-version.cmake

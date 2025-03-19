@@ -1,0 +1,54 @@
+{
+	"cmake" : 
+	{
+		"generator" : 
+		{
+			"multiConfig" : false,
+			"name" : "Unix Makefiles"
+		},
+		"paths" : 
+		{
+			"cmake" : "/home/addinedu/.local/lib/python3.10/site-packages/cmake/data/bin/cmake",
+			"cpack" : "/home/addinedu/.local/lib/python3.10/site-packages/cmake/data/bin/cpack",
+			"ctest" : "/home/addinedu/.local/lib/python3.10/site-packages/cmake/data/bin/ctest",
+			"root" : "/home/addinedu/.local/lib/python3.10/site-packages/cmake/data/share/cmake-3.25"
+		},
+		"version" : 
+		{
+			"isDirty" : false,
+			"major" : 3,
+			"minor" : 25,
+			"patch" : 0,
+			"string" : "3.25.0",
+			"suffix" : ""
+		}
+	},
+	"objects" : 
+	[
+		{
+			"jsonFile" : "codemodel-v2-a161510d8e6099c95565.json",
+			"kind" : "codemodel",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 4
+			}
+		}
+	],
+	"reply" : 
+	{
+		"client-colcon-cmake" : 
+		{
+			"codemodel-v2" : 
+			{
+				"jsonFile" : "codemodel-v2-a161510d8e6099c95565.json",
+				"kind" : "codemodel",
+				"version" : 
+				{
+					"major" : 2,
+					"minor" : 4
+				}
+			}
+		}
+	}
+}

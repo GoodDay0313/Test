@@ -1,0 +1,64 @@
+[0.010s] Invoking command in '/home/addinedu/Desktop/GT/build/my_robot_navigation': CMAKE_PREFIX_PATH=/opt/ros/humble /home/addinedu/.local/bin/cmake /home/addinedu/Desktop/GT/my_robot_navigation -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/addinedu/Desktop/GT/install/my_robot_navigation
+[0.068s] -- The C compiler identification is GNU 11.4.0
+[0.113s] -- The CXX compiler identification is GNU 11.4.0
+[0.121s] -- Detecting C compiler ABI info
+[0.165s] -- Detecting C compiler ABI info - done
+[0.173s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.173s] -- Detecting C compile features
+[0.173s] -- Detecting C compile features - done
+[0.176s] -- Detecting CXX compiler ABI info
+[0.233s] -- Detecting CXX compiler ABI info - done
+[0.240s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.240s] -- Detecting CXX compile features
+[0.241s] -- Detecting CXX compile features - done
+[0.243s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.341s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.386s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.410s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.475s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.476s] -- Added test 'lint_cmake' to check CMake code style
+[0.477s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.479s] -- Added test 'xmllint' to check XML markup files
+[0.480s] -- Configuring done
+[0.485s] -- Generating done
+[0.485s] -- Build files have been written to: /home/addinedu/Desktop/GT/build/my_robot_navigation
+[0.493s] Invoked command in '/home/addinedu/Desktop/GT/build/my_robot_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/addinedu/.local/bin/cmake /home/addinedu/Desktop/GT/my_robot_navigation -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/addinedu/Desktop/GT/install/my_robot_navigation
+[0.494s] Invoking command in '/home/addinedu/Desktop/GT/build/my_robot_navigation': CMAKE_PREFIX_PATH=/opt/ros/humble /home/addinedu/.local/bin/cmake --build /home/addinedu/Desktop/GT/build/my_robot_navigation -- -j16 -l16
+[0.546s] Invoked command in '/home/addinedu/Desktop/GT/build/my_robot_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/addinedu/.local/bin/cmake --build /home/addinedu/Desktop/GT/build/my_robot_navigation -- -j16 -l16
+[0.547s] Invoking command in '/home/addinedu/Desktop/GT/build/my_robot_navigation': CMAKE_PREFIX_PATH=/opt/ros/humble /home/addinedu/.local/bin/cmake --install /home/addinedu/Desktop/GT/build/my_robot_navigation
+[0.567s] -- Install configuration: ""
+[0.568s] -- Execute custom install script
+[0.568s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/my_robot_navigation/launch/bringup_launch.py
+[0.571s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/my_robot_navigation/launch/bringup_launch.xml
+[0.573s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/my_robot_navigation/launch/localization.launch.py
+[0.576s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/my_robot_navigation/launch/localization_launch.xml
+[0.578s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/my_robot_navigation/launch/map_building.launch.xml
+[0.580s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/my_robot_navigation/launch/nav2_view.launch.xml
+[0.583s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/my_robot_navigation/launch/navigation.launch.py
+[0.585s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/my_robot_navigation/launch/navigation_launch.xml
+[0.587s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/my_robot_navigation/config/mapper_params.yaml
+[0.590s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/my_robot_navigation/config/nav2_params.yaml
+[0.592s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/my_robot_navigation/config/nav2_params_vec.yaml
+[0.595s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/my_robot_navigation/maps/map_name.pgm
+[0.597s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/my_robot_navigation/maps/map_name.yaml
+[0.599s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/my_robot_navigation/maps/realMap.pgm
+[0.602s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/my_robot_navigation/maps/realMap.yaml
+[0.604s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/my_robot_navigation/rviz/nav2_view.rviz
+[0.607s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/navigate_through_poses_w_replanning_and_recovery.xml
+[0.610s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/my_robot_navigation/behavior_trees/navigate_to_pose_w_replanning_and_recovery.xml
+[0.613s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/ament_index/resource_index/package_run_dependencies/my_robot_navigation
+[0.615s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/ament_index/resource_index/parent_prefix_path/my_robot_navigation
+[0.617s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/my_robot_navigation/environment/ament_prefix_path.sh
+[0.620s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/my_robot_navigation/environment/ament_prefix_path.dsv
+[0.623s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/my_robot_navigation/environment/path.sh
+[0.626s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/my_robot_navigation/environment/path.dsv
+[0.628s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/my_robot_navigation/local_setup.bash
+[0.630s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/my_robot_navigation/local_setup.sh
+[0.633s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/my_robot_navigation/local_setup.zsh
+[0.635s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/my_robot_navigation/local_setup.dsv
+[0.638s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/my_robot_navigation/package.dsv
+[0.641s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/ament_index/resource_index/packages/my_robot_navigation
+[0.643s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/my_robot_navigation/cmake/my_robot_navigationConfig.cmake
+[0.646s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/my_robot_navigation/cmake/my_robot_navigationConfig-version.cmake
+[0.648s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_navigation/share/my_robot_navigation/package.xml
+[0.659s] Invoked command in '/home/addinedu/Desktop/GT/build/my_robot_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/addinedu/.local/bin/cmake --install /home/addinedu/Desktop/GT/build/my_robot_navigation

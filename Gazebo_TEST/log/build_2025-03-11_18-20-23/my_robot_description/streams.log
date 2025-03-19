@@ -1,0 +1,111 @@
+[0.012s] Invoking command in '/home/addinedu/Desktop/GT/build/my_robot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /home/addinedu/.local/bin/cmake /home/addinedu/Desktop/GT/my_robot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/addinedu/Desktop/GT/install/my_robot_description
+[0.070s] -- The C compiler identification is GNU 11.4.0
+[0.117s] -- The CXX compiler identification is GNU 11.4.0
+[0.126s] -- Detecting C compiler ABI info
+[0.171s] -- Detecting C compiler ABI info - done
+[0.178s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.178s] -- Detecting C compile features
+[0.178s] -- Detecting C compile features - done
+[0.181s] -- Detecting CXX compiler ABI info
+[0.234s] -- Detecting CXX compiler ABI info - done
+[0.242s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.242s] -- Detecting CXX compile features
+[0.242s] -- Detecting CXX compile features - done
+[0.244s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.333s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.379s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.404s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.470s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.471s] -- Added test 'lint_cmake' to check CMake code style
+[0.472s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.476s] -- Added test 'xmllint' to check XML markup files
+[0.477s] -- Configuring done
+[0.480s] -- Generating done
+[0.482s] -- Build files have been written to: /home/addinedu/Desktop/GT/build/my_robot_description
+[0.489s] Invoked command in '/home/addinedu/Desktop/GT/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/addinedu/.local/bin/cmake /home/addinedu/Desktop/GT/my_robot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/addinedu/Desktop/GT/install/my_robot_description
+[0.491s] Invoking command in '/home/addinedu/Desktop/GT/build/my_robot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /home/addinedu/.local/bin/cmake --build /home/addinedu/Desktop/GT/build/my_robot_description -- -j16 -l16
+[0.526s] Invoked command in '/home/addinedu/Desktop/GT/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/addinedu/.local/bin/cmake --build /home/addinedu/Desktop/GT/build/my_robot_description -- -j16 -l16
+[0.551s] Invoking command in '/home/addinedu/Desktop/GT/build/my_robot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /home/addinedu/.local/bin/cmake --install /home/addinedu/Desktop/GT/build/my_robot_description
+[0.571s] -- Install configuration: ""
+[0.571s] -- Execute custom install script
+[0.571s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/rviz/urdf_config.rviz
+[0.574s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/urdf/camera.xacro
+[0.576s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/urdf/gazebo_control.xacro
+[0.578s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/urdf/lidar.xacro
+[0.580s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/urdf/robot.urdf.xacro
+[0.583s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/urdf/robot_core.xacro
+[0.585s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/urdf/robot_gazebo.xacro
+[0.587s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/urdf/ros2_control.xacro
+[0.589s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/launch/display.launch.xml
+[0.591s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/launch/upload.launch.py
+[0.593s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/launch/upload.launch.xml
+[0.596s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/Bottom view.jpg
+[0.598s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/Camera X.jpg
+[0.601s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/Camera Y.jpg
+[0.603s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/Camera Z.jpg
+[0.606s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/Lidar Y.jpg
+[0.609s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/Robot length.jpg
+[0.611s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/Robot width.jpg
+[0.613s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/STL file/Camera.stl
+[0.616s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/STL file/Front_left.stl
+[0.618s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/STL file/Front_right.stl
+[0.621s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/STL file/Main.stl
+[0.624s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/STL file/Rear_left.stl
+[0.626s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/STL file/Rear_right.stl
+[0.629s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/STL file/lidar.stl
+[0.631s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/Top view.jpg
+[0.634s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/Wheel radius.jpg
+[0.636s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/distance between wheel .jpg
+[0.638s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/distance wheel front back.jpg
+[0.641s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/lidar X.jpg
+[0.643s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/lidar Z.jpg
+[0.645s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/bases/Main.stl
+[0.648s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/camera.stl
+[0.651s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/castor.stl
+[0.653s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/collision/base_link.stl
+[0.656s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/collision/front_camera.stl
+[0.658s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/collision/ul_sensor.stl
+[0.661s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/collision/wheel.stl
+[0.663s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/collision/ydlidar_x2_assy.stl
+[0.666s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/sensors/Hokuyo.stl
+[0.668s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/sensors/camera.stl
+[0.671s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/sensors/lidar.stl
+[0.673s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/visual/base_link.dae
+[0.677s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/visual/front_camera.dae
+[0.679s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/visual/front_camera.png
+[0.682s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/visual/ul_sensor.dae
+[0.685s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/visual/wheel.dae
+[0.688s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/visual/wheel.png
+[0.691s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/visual/ydlidar_x2.png
+[0.693s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/visual/ydlidar_x2_assy.dae
+[0.696s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/wheel.stl
+[0.698s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/wheels/Front_left_wheel.stl
+[0.701s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/wheels/Front_right_wheel.stl
+[0.704s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/wheels/Rear_left_wheel.stl
+[0.706s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/wheels/Rear_right_wheel.stl
+[0.708s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/wheels/left_tire.stl
+[0.711s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/wheels/right_tire.stl
+[0.714s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/storagy_urdf/macros.xacro
+[0.717s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/storagy_urdf/storagy_camera.xacro
+[0.719s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/storagy_urdf/storagy_gazebo.xacro
+[0.722s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/storagy_urdf/storagy_gazebo_control.xacro
+[0.725s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/storagy_urdf/storagy_lidar.xacro
+[0.729s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/storagy_urdf/storagy_robot.urdf.xacro
+[0.732s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/storagy_urdf/storagy_robot_core.xacro
+[0.735s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/storagy_urdf/storagy_ros2_control.xacro
+[0.738s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/ament_index/resource_index/package_run_dependencies/my_robot_description
+[0.740s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/ament_index/resource_index/parent_prefix_path/my_robot_description
+[0.744s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.sh
+[0.746s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.dsv
+[0.749s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/environment/path.sh
+[0.751s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/environment/path.dsv
+[0.754s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/local_setup.bash
+[0.757s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/local_setup.sh
+[0.759s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/local_setup.zsh
+[0.761s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/local_setup.dsv
+[0.764s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/package.dsv
+[0.767s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/ament_index/resource_index/packages/my_robot_description
+[0.771s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig.cmake
+[0.773s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig-version.cmake
+[0.776s] -- Symlinking: /home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/package.xml
+[0.784s] Invoked command in '/home/addinedu/Desktop/GT/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/addinedu/.local/bin/cmake --install /home/addinedu/Desktop/GT/build/my_robot_description

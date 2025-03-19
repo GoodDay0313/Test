@@ -1,0 +1,80 @@
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/rviz/urdf_config.rviz
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/urdf/camera.xacro
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/urdf/gazebo_control.xacro
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/urdf/lidar.xacro
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/urdf/robot.urdf.xacro
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/urdf/robot_core.xacro
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/urdf/robot_gazebo.xacro
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/urdf/ros2_control.xacro
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/launch/display.launch.xml
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/launch/upload.launch.py
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/launch/upload.launch.xml
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/Bottom view.jpg
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/Camera X.jpg
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/Camera Y.jpg
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/Camera Z.jpg
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/Lidar Y.jpg
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/Robot length.jpg
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/Robot width.jpg
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/STL file/Camera.stl
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/STL file/Front_left.stl
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/STL file/Front_right.stl
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/STL file/Main.stl
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/STL file/Rear_left.stl
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/STL file/Rear_right.stl
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/STL file/lidar.stl
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/Top view.jpg
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/Wheel radius.jpg
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/distance between wheel .jpg
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/distance wheel front back.jpg
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/lidar X.jpg
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/Size/lidar Z.jpg
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/bases/Main.stl
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/camera.stl
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/castor.stl
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/collision/base_link.stl
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/collision/front_camera.stl
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/collision/ul_sensor.stl
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/collision/wheel.stl
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/collision/ydlidar_x2_assy.stl
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/sensors/Hokuyo.stl
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/sensors/camera.stl
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/sensors/lidar.stl
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/visual/base_link.dae
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/visual/front_camera.dae
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/visual/front_camera.png
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/visual/ul_sensor.dae
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/visual/wheel.dae
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/visual/wheel.png
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/visual/ydlidar_x2.png
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/visual/ydlidar_x2_assy.dae
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/wheel.stl
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/wheels/Front_left_wheel.stl
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/wheels/Front_right_wheel.stl
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/wheels/Rear_left_wheel.stl
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/wheels/Rear_right_wheel.stl
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/wheels/left_tire.stl
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/meshes/wheels/right_tire.stl
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/storagy_urdf/macros.xacro
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/storagy_urdf/storagy_camera.xacro
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/storagy_urdf/storagy_gazebo.xacro
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/storagy_urdf/storagy_gazebo_control.xacro
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/storagy_urdf/storagy_lidar.xacro
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/storagy_urdf/storagy_robot.urdf.xacro
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/storagy_urdf/storagy_robot_core.xacro
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/storagy_urdf/storagy_ros2_control.xacro
+/home/addinedu/Desktop/GT/install/my_robot_description/share/ament_index/resource_index/package_run_dependencies/my_robot_description
+/home/addinedu/Desktop/GT/install/my_robot_description/share/ament_index/resource_index/parent_prefix_path/my_robot_description
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.sh
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.dsv
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/environment/path.sh
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/environment/path.dsv
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/local_setup.bash
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/local_setup.sh
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/local_setup.zsh
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/local_setup.dsv
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/package.dsv
+/home/addinedu/Desktop/GT/install/my_robot_description/share/ament_index/resource_index/packages/my_robot_description
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig.cmake
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig-version.cmake
+/home/addinedu/Desktop/GT/install/my_robot_description/share/my_robot_description/package.xml
